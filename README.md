@@ -35,9 +35,9 @@ If you want, you could also select the (Rand) button to the right of the rack's 
     [Ableton User Library]\Presets\Audio Effects\Audio Effect Rack
     ```
 - Then, go to the [Releases page](https://github.com/fonkley/anyeffectdrywet/releases/)
-  - Download `any.effectdry_wet.adg` from the latest release.
+  - Download `Any.EffectDry_Wet.adg` from the latest release.
 <br> </br>
-- Finally, move the `any.effectdry_wet.adg` file from your downloads folder, to the `\Audio Effect Rack` directory.
+- Finally, move the `Any.EffectDry_Wet.adg` file from your downloads folder, to the `\Audio Effect Rack` directory.
 <br> </br>
 ### macOS
 - First, locate your Ableton User Library.
